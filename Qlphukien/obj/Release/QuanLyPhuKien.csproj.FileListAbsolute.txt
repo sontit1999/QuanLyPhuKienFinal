@@ -1,0 +1,36 @@
+C:\Users\Admin\Desktop\QLPK-lan4-master\QLPK-lan4-master\Qlphukien\bin\Release\Quanlyphukien.exe.config
+C:\Users\Admin\Desktop\QLPK-lan4-master\QLPK-lan4-master\Qlphukien\bin\Release\Quanlyphukien.exe
+C:\Users\Admin\Desktop\QLPK-lan4-master\QLPK-lan4-master\Qlphukien\bin\Release\Quanlyphukien.pdb
+C:\Users\Admin\Desktop\QLPK-lan4-master\QLPK-lan4-master\Qlphukien\bin\Release\System.Collections.NonGeneric.dll
+C:\Users\Admin\Desktop\QLPK-lan4-master\QLPK-lan4-master\Qlphukien\obj\Release\QuanLyPhuKien.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\QLPK-lan4-master\QLPK-lan4-master\Qlphukien\obj\Release\Qlphukien.MenuForm.resources
+C:\Users\Admin\Desktop\QLPK-lan4-master\QLPK-lan4-master\Qlphukien\obj\Release\Quanlyphukien.Properties.Resources.resources
+C:\Users\Admin\Desktop\QLPK-lan4-master\QLPK-lan4-master\Qlphukien\obj\Release\Qlphukien.QuanLyHoaDon.resources
+C:\Users\Admin\Desktop\QLPK-lan4-master\QLPK-lan4-master\Qlphukien\obj\Release\Qlphukien.QLLoaiSanPham.resources
+C:\Users\Admin\Desktop\QLPK-lan4-master\QLPK-lan4-master\Qlphukien\obj\Release\Qlphukien.QLNhanVien.resources
+C:\Users\Admin\Desktop\QLPK-lan4-master\QLPK-lan4-master\Qlphukien\obj\Release\Qlphukien.QLSanPham.resources
+C:\Users\Admin\Desktop\QLPK-lan4-master\QLPK-lan4-master\Qlphukien\obj\Release\Qlphukien.ThongKe.resources
+C:\Users\Admin\Desktop\QLPK-lan4-master\QLPK-lan4-master\Qlphukien\obj\Release\QuanLyPhuKien.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\QLPK-lan4-master\QLPK-lan4-master\Qlphukien\obj\Release\QuanLyPhuKien.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QLPK-lan4-master\QLPK-lan4-master\Qlphukien\obj\Release\QuanLyPhuKien.csproj.CopyComplete
+C:\Users\Admin\Desktop\QLPK-lan4-master\QLPK-lan4-master\Qlphukien\obj\Release\Quanlyphukien.exe
+C:\Users\Admin\Desktop\QLPK-lan4-master\QLPK-lan4-master\Qlphukien\obj\Release\Quanlyphukien.pdb
+C:\Users\Admin\Desktop\QLPK-lan4-master\QLPK-lan4-master\Qlphukien\obj\Release\Qlphukien.DangNhap.resources
+C:\Users\Admin\Desktop\Đồ án - QLPK\QLPK\Qlphukien\bin\Release\Quanlyphukien.exe.config
+C:\Users\Admin\Desktop\Đồ án - QLPK\QLPK\Qlphukien\bin\Release\Quanlyphukien.exe
+C:\Users\Admin\Desktop\Đồ án - QLPK\QLPK\Qlphukien\bin\Release\Quanlyphukien.pdb
+C:\Users\Admin\Desktop\Đồ án - QLPK\QLPK\Qlphukien\bin\Release\System.Collections.NonGeneric.dll
+C:\Users\Admin\Desktop\Đồ án - QLPK\QLPK\Qlphukien\obj\Release\Qlphukien.DangNhap.resources
+C:\Users\Admin\Desktop\Đồ án - QLPK\QLPK\Qlphukien\obj\Release\Qlphukien.MenuForm.resources
+C:\Users\Admin\Desktop\Đồ án - QLPK\QLPK\Qlphukien\obj\Release\Quanlyphukien.Properties.Resources.resources
+C:\Users\Admin\Desktop\Đồ án - QLPK\QLPK\Qlphukien\obj\Release\Qlphukien.QuanLyHoaDon.resources
+C:\Users\Admin\Desktop\Đồ án - QLPK\QLPK\Qlphukien\obj\Release\Qlphukien.QLLoaiSanPham.resources
+C:\Users\Admin\Desktop\Đồ án - QLPK\QLPK\Qlphukien\obj\Release\Qlphukien.QLNhanVien.resources
+C:\Users\Admin\Desktop\Đồ án - QLPK\QLPK\Qlphukien\obj\Release\Qlphukien.QLSanPham.resources
+C:\Users\Admin\Desktop\Đồ án - QLPK\QLPK\Qlphukien\obj\Release\Qlphukien.ThongKe.resources
+C:\Users\Admin\Desktop\Đồ án - QLPK\QLPK\Qlphukien\obj\Release\QuanLyPhuKien.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Đồ án - QLPK\QLPK\Qlphukien\obj\Release\QuanLyPhuKien.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Đồ án - QLPK\QLPK\Qlphukien\obj\Release\QuanLyPhuKien.csproj.CopyComplete
+C:\Users\Admin\Desktop\Đồ án - QLPK\QLPK\Qlphukien\obj\Release\Quanlyphukien.exe
+C:\Users\Admin\Desktop\Đồ án - QLPK\QLPK\Qlphukien\obj\Release\Quanlyphukien.pdb
+C:\Users\Admin\Desktop\Đồ án - QLPK\QLPK\Qlphukien\obj\Release\QuanLyPhuKien.csprojAssemblyReference.cache
